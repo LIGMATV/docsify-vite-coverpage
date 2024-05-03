@@ -1,7 +1,7 @@
 # Docsify Vite Coverpage [Preview](https://docsify-vite-coverpage.vercel.app/)
 A new responsive vite-like coverpage for your docs
 
-- This theme inspired by :
+- This coverpage inspired by :
   - [Vitepress Docs](https://vitepress.dev/)
 
 # Install
