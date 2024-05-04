@@ -12,7 +12,7 @@ section.cover img:first-child {
 }
 
 section.cover .cover-main > p:last-child a {
-  letter-spacing: -0.5px;
+  letter-spacing: -.1px;
   padding: 12px 24px;
   background-color: #ebebef;
   border: none;
@@ -73,6 +73,7 @@ section.cover blockquote {
   section.cover ul {
     margin-top: -32px;
     font-size: 24px;
+    line-height: 1.5;
   }
 
   section.cover ul {
