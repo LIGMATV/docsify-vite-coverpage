@@ -93,7 +93,7 @@ section.cover ul {
     float: right;
     position: absolute;
     top: 50%;
-    left: 70%;
+    left: 75%;
     transform: translate(-50%, -50%);
     width: 270px;
   }
