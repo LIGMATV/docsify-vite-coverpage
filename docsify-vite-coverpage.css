@@ -19,7 +19,7 @@ section.cover .cover-main > p:last-child a {
   color: #000000;
   font-size: 14px;
   font-weight: 600;
-  margin: 0 8px;
+  margin: 5px 8px;
 }
 
 section.cover .cover-main > p:last-child a:last-child:hover {
@@ -33,6 +33,12 @@ section.cover h1 span {
 section.cover h1,
 section.cover blockquote {
   font-weight: 700;
+}
+
+section.cover p:nth-last-child(2),
+section.cover ul {
+  line-height: 1.5;
+  font-weight: 500;
 }
 
 @media only screen and (min-width: 960px) {
@@ -52,6 +58,11 @@ section.cover blockquote {
     margin: 0;
   }
 
+  section.cover p:nth-last-child(2),
+  section.cover ul {
+    font-size: 24px;
+  }
+
   section.cover p {
     max-width: 576px;
   }
@@ -65,15 +76,13 @@ section.cover blockquote {
     line-height: -1px;
   }
 
-  section.cover p {
-    line-height: 1;
-  }
-
   section.cover p:nth-last-child(2),
   section.cover ul {
     margin-top: -32px;
-    font-size: 24px;
-    line-height: 1.5;
+  }
+
+  section.cover p {
+    line-height: 1;
   }
 
   section.cover ul {
