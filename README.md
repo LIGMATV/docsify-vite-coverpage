@@ -1,3 +1,7 @@
+> [!CAUTION]
+> # This repository has been moved to GitLab with the latest commits not available in this repository. <sup>[?](https://gitlab.com/LIGMATV)</sup>
+> https://gitlab.com/LIGMATV/docsify-vite-coverpage
+
 # Docsify Vite Coverpage [Preview](https://docsify-vite-coverpage.vercel.app/)
 A new responsive vite-like coverpage for your docs
 
